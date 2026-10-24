@@ -1,0 +1,3 @@
+/* No preflight: the tool runs inside bannerify.co, which has its own base styles. */
+@import "tailwindcss/theme.css" layer(theme);
+@import "tailwindcss/utilities.css" layer(utilities);

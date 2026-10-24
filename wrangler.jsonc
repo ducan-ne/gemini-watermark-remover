@@ -1,0 +1,6 @@
+{
+  // Static assets only: bannerify.co proxies /gemini-watermark-remover/* to this Worker.
+  "name": "bannerify-gemini-watermark-remover",
+  "compatibility_date": "2026-10-01",
+  "assets": { "directory": "./dist" }
+}
