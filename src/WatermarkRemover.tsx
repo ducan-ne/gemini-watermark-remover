@@ -183,15 +183,7 @@ const WatermarkRemover = () => {
       )}
 
       <p className="text-xs text-pretty text-neutral-500">
-        Made with{" "}
-        <a
-          href="https://github.com/GargantuaX/gemini-watermark-remover"
-          className="underline underline-offset-4"
-          rel="noopener"
-        >
-          gemini-watermark-remover
-        </a>{" "}
-        (MIT). It removes the visible mark only, not the invisible SynthID watermark. The source of this tool is on{" "}
+        It removes the visible mark only, not the invisible SynthID watermark. The source of this tool is on{" "}
         <a
           href="https://github.com/ducan-ne/gemini-watermark-remover"
           className="underline underline-offset-4"
